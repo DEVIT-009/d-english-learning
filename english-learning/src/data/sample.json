@@ -1,0 +1,21 @@
+{
+  "courses": [
+    {
+      "id": "course-a1",
+      "title": "Beginner English (A1)",
+      "description": "Basics of English for beginners",
+      "lessons": [
+        { "id": "lesson-1", "title": "Alphabet", "duration": 10 },
+        { "id": "lesson-2", "title": "Greetings", "duration": 15 }
+      ]
+    }
+  ],
+  "quizzes": [
+    { "id": "quiz-1", "title": "A1 Basics", "questions": 10 },
+    { "id": "quiz-2", "title": "Greetings", "questions": 8 }
+  ],
+  "vocabulary": [
+    { "id": "v-hello", "word": "hello", "translation": "xin chào" },
+    { "id": "v-bye", "word": "goodbye", "translation": "tạm biệt" }
+  ]
+}
