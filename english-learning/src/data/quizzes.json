@@ -1,0 +1,38 @@
+[
+  {
+    "id": "quiz-001",
+    "title": "Present Simple Basics",
+    "category": "Grammar",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "prompt": "Which sentence is in Present Simple?",
+        "choices": [
+          "She is going to school.",
+          "She goes to school.",
+          "She went to school.",
+          "She will go to school."
+        ],
+        "answerIndex": 1,
+        "explanation": "Present Simple uses the base form with 's' for third person singular: 'goes'."
+      },
+      {
+        "id": "q2",
+        "type": "fill_blank",
+        "prompt": "I ____ (to play) tennis on Sundays.",
+        "answerText": "play",
+        "explanation": "For 'I', use base form: 'play'."
+      },
+      {
+        "id": "q3",
+        "type": "listening",
+        "prompt": "Listen and type the missing word.",
+        "audioUrl": "https://cdn.example.com/audio/present-simple-001.mp3",
+        "transcript": "She ____ to school every day.",
+        "answerText": "goes",
+        "explanation": "Third person singular uses 'goes'."
+      }
+    ]
+  }
+]
